@@ -17,5 +17,8 @@ I'm a passionate developer and pre-final year Computer Technology student at Ann
 ![Trophies](https://github-profile-trophy.vercel.app/?username=DeekshiPalanivel&theme=darkhub)
 
 ## 📫 Let's Connect
-  [![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/deekshikaapalanivel)
+ <a href="https://www.linkedin.com/in/deekshikaapalanivel" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+
 
