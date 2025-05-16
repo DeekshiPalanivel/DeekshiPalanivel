@@ -19,15 +19,15 @@ I'm a passionate developer and pre-final year Computer Technology student at Ann
 ## 📫 Let's Connect
  <p align="left">
   <a href="https://www.linkedin.com/in/deekshikaapalanivel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" style="margin-right: 20px;" />
   </a>
-  &nbsp;
+  
   <a href="https://leetcode.com/deekshi_07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" alt="LeetCode" style="margin-right: 20px;" />
   </a>
-  &nbsp;
+  
   <a href="mailto:deekshikaapalanivel@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="30" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="30" alt="Email" style="margin-right: 20px;" />
   </a>
 </p>
 
