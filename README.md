@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Deekshikaa Palanivel
 
-I'm a passionate developer and a pre-final year Computer Technology student at **Anna University**.  
+I'm a passionate developer and a final year Computer Technology student at **Anna University**.  
 I love solving problems, building projects, and continuously learning new technologies.
 
 ---
